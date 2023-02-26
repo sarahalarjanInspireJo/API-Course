@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>loginUser</name>
+   <tag></tag>
+   <elementGuidId>d6c9e783-0300-4a43-98c8-d10b2fedb457</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>8cf5eae5-ad9e-4443-8499-f7d9a63c83de</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-type</name>
+      <type>Main</type>
+      <value>application/xml</value>
+      <webElementGuid>1e81adcc-b0f6-41e2-8404-080da5248db4</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.5.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>https://petstore.swagger.io/v2/user/login?username=&amp;password=</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

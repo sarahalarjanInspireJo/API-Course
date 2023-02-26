@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>findPetsByStatus</name>
+   <tag></tag>
+   <elementGuidId>5060242c-0b47-45b7-b6a7-289fe46e14d0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>a1c38fa4-a005-4d9e-8c25-599b9349553c</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-type</name>
+      <type>Main</type>
+      <value>application/xml</value>
+      <webElementGuid>91ea9332-dfd6-434a-8145-d95292eaa022</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.5.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>https://petstore.swagger.io/v2/pet/findByStatus?status=</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>
